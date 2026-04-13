@@ -26,7 +26,7 @@ A Python library for fixed-income analytics.
 ## Installation
 
 ```bash
-pip install bondlab
+pip install bondlab-txmpeer
 ```
 
 ## Quick Example
@@ -57,8 +57,7 @@ print(duration)
 
 ## Tutorial Notebook:
 
-https://colab.research.google.com/github/Txmpeer/bondlab/blob/main/notebooks/tutorial.ipynb
-
+[Open in Colab](https://colab.research.google.com/github/Txmpeer/bondlab/blob/main/notebooks/tutorial.ipynb)
 
 ## Running Tests:
 

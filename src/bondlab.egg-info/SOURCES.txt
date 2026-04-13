@@ -1,3 +1,4 @@
+LICENSE
 README.md
 pyproject.toml
 src/bondlab/__init__.py
@@ -14,5 +15,11 @@ src/bondlab.egg-info/PKG-INFO
 src/bondlab.egg-info/SOURCES.txt
 src/bondlab.egg-info/dependency_links.txt
 src/bondlab.egg-info/top_level.txt
+tests/test_cashflows.py
+tests/test_curves.py
 tests/test_discounting.py
+tests/test_factors.py
+tests/test_portfolio.py
 tests/test_pricing.py
+tests/test_risk.py
+tests/test_yields.py
